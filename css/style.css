@@ -1009,17 +1009,6 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
 
-.site-section {
-  /* padding: 2.5em 0;  */
-}
-  @media (min-width: 768px) {
-    .site-section {
-      /* padding: 5em 0;  */
-    } }
-  .site-section.site-section-sm {
-    /* padding: 4em 0;  */
-  }
-
 .site-footer {
   padding: 4em 0;
   background: url("../images/dot-grid.png"); }
@@ -1179,10 +1168,7 @@ h1, h2, h3, h4, h5,
   width: 100%;
   padding: 0.5rem; }
   @media (max-width: 991.98px) {
-    .site-navbar {
-      /* padding-top: 3rem;
-      padding-bottom: 3rem;  */
-    } }
+  }
   .site-navbar .toggle-button {
     position: absolute;
     right: 0px; }
@@ -1536,9 +1522,6 @@ h1, h2, h3, h4, h5,
     font-size: 18px;
     color: #fff; }
 
-.site-section {
-  /* padding: 7rem 0;  */
-}
   @media (max-width: 991.98px) {
     .site-section {
       padding: 3rem 0; } }
