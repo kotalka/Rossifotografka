@@ -3,9 +3,8 @@
   margin-right: 40px;
 }
 
-.modal-padding {
-  padding-right: 0px !important;
-}
+body {overflow: auto !important}
+#header {padding-right: 0 !important}
 
 .modal-open, .modal-open .modal {padding-right: 0 !important}
 
