@@ -178,7 +178,8 @@
 
 .icon-menu {
   margin-top: 20px !important;
-  margin-right: 40px;
+  margin-right: 10px;
+  color: black;
 }
 
 /* body {
@@ -186,12 +187,13 @@
 } */
 
 #header {
-  padding-right: 0 !important
+  padding-right: 0 !important;
+  max-width: 90vw !important;
 }
 
 .modal-open,
 .modal-open .modal {
-  padding-right: 0 !important
+  padding-right: 0 !important;
 }
 
 .close-modal {
@@ -1683,7 +1685,7 @@ h5,
 
 .site-navbar .site-navigation .site-menu {
   margin: 0;
-  padding: 0;
+  padding: 0 !important;
   margin-bottom: 0;
 }
 
@@ -1852,7 +1854,7 @@ h5,
 }
 
 .site-mobile-menu {
-  width: 300px;
+  width: 250px;
   position: fixed;
   right: 0;
   z-index: 2000;
