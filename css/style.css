@@ -171,17 +171,13 @@
   color: black;
 }
 
-.body-home {
-  overflow: auto !important;
-}
+/* body {
+  overflow: auto !important
+} */
 
 #header {
   padding-right: 0 !important;
-}
-
-#header-page{
-  max-width: 100vw;
-  padding-right: 0 !important;
+  max-width: 100vw !important;
 }
 
 .modal-open,
@@ -307,7 +303,6 @@
   padding-bottom: 3rem;
   text-align: center;
 }
-
 
 .portfolio-modal .modal-content h2 {
   font-size: 2.5rem;
